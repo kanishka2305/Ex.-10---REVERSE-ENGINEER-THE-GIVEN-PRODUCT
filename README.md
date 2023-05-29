@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![inp](/input.jpeg)
 
 ### Output:
+![out](/out.png)
 
 
-### Name:
-### Register Number:
+### Name: Kanishka.V.S
+### Register Number: 212222230061
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
